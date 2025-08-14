@@ -1,0 +1,11 @@
+.login-content {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+.form-control {
+    margin-bottom: 15px;
+}
+.card-header {
+    background-color: #f0f8ff;
+}
