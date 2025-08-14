@@ -1,11 +1,43 @@
-.login-content {
+form {
+    padding: 50px;
+}
+.container {
+    background-color: antiquewhite;
+    padding: 40px;
+}
+input.form-control {
+    font-size: 20px;
+}
+.input-field {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.form-check{
+    padding-left: 45px;
+}
+.gender {
     display: flex;
-    justify-content: center;
-    padding-top: 60px;
+    column-gap: 10px;
+}
+/*input::placeholder {
+    color: red !important;
+    opacity: 0.5;
+  }*/
+.input-field.button {
+    text-align: center;
+}
+.btn.btn-primary {
+    font-size: 20px;
 }
 .form-control {
-    margin-bottom: 15px;
+    font-size: 20px !important;
 }
-.card-header {
-    background-color: #f0f8ff;
+.mobile, .email {
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+}
+.form-submit {
+    font-size: 18px;
+    margin-bottom: 10px;
 }
