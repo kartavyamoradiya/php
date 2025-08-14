@@ -1,0 +1,3 @@
+$sql = "INSERT INTO task_list (task_name, task_description, task_createdate, task_enddate, task_status ) VALUES ('$taskname', '$description', '$create', '$enddate', '$status')";
+
+echo "<pre>";print_r($sql);die(); 

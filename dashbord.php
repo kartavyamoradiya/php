@@ -1,5 +1,5 @@
 <?php session_start();
-
+include('controler/userCheck.php');
 
 ?>
 <!DOCTYPE html>
@@ -17,10 +17,10 @@
         <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
             <ul class="navbar-nav navbar-nav-scroll col-12">
                 <li class="nav-item col-6">
-                    <a class="nav-link" href="login.php">Admin Login</a>
+                    <a class="nav-link" href="task.php">task menu</a>
                 </li>
                 <li class="nav-item col-6">
-                    <a class="nav-link " href="userLogin.php">User Login</a>
+                    <a class="nav-link " href="user.php">user menu</a>
                 </li>
             </ul>
         </nav>
