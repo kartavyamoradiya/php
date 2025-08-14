@@ -1,0 +1,16 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA"
+  },
+  "hobbies": ["reading", "hiking", "coding"],
+  "isEmployed": true,
+  "salary": 60000.00,
+  "contactInfo": {
+    "email": "john.doe@example.com",
+    "phone": "555-123-4567"
+  }
+}

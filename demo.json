@@ -1,0 +1,29 @@
+{
+    "info_title": {
+        "message": "Info"
+    },
+    "info_copyright": {
+        "message": "Copyright 2020-2025, celanio GmbH"
+    },
+    "info_more_info": {
+        "message": "For more information:"
+    },
+    "info_description": {
+        "message": "With the celanio Mail Import Plugin, you can import emails from Thunderbird into the celanio system. \nFirst, enter your REST API token and the celanio system domain on the 'Settings' page. \nIf necessary, add the 'celanio Import' button to your interface. \n\nNow you can select an email and start the import process."
+    },
+    "preferences_title": {
+        "message": "celanio E-Mail Import Preferences"
+    },
+    "preferences_saved_msg": {
+        "message": "Preferences saved!"
+    },
+    "preferences_token": {
+        "message": "Token:"
+    },
+    "preferences_mails": {
+        "message": "Mails:"
+    },
+    "preferences_domain": {
+        "message": "Domain:"
+    }
+}

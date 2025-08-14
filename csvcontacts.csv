@@ -1,0 +1,50 @@
+id,user_id,timestamp_created,timestamp_lastchange,type,address_type,address_is_default,salutation,name,firstname,birthday,birthplace,extranet_login,categories,newsletters,company_id,company_name,address_street,address_houseNumber,address_zip,address_city,phone_country,phone_area,phone_number
+2,2,2020-02-11 13:22:23,2024-03-01 20:59:40,person,Standard,1,ms,Decker,Mich�lle,,,cel-test02@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>redpeppers.celanio.com/,,3,Heinrich GmbH,Teststr.,12b,12346,Berlin,49,30,50456126
+3,1,2020-02-11 13:36:01,2024-02-22 11:21:11,company,Standard,1,,Heinrich GmbH,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>redpeppers.celanio.com/,,,,Teststr.,12b,12346,Berlin,49,30,50456123
+4,1,2020-02-11 14:47:35,2024-02-22 11:21:12,company,Standard,1,,Sonne GmbH,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>redpeppers.celanio.com/,,,,Musterstr.,123,76133,Karlsruhe,,,
+5,2,2020-02-11 14:47:35,2024-04-22 04:40:08,person,Standard,1,mr,Fuchs,Thomas,1982-09-25,Karlsruhe,cel-test01@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Dozenten,,4,Sonne GmbH,Musterstr.,123,76133,Karlsruhe,49,721,123456-13
+6,2,2020-02-11 15:23:51,2025-02-19 07:28:37,person,Standard,1,,Amsel,Christina,2005-07-14,,amsel-chr,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Betreuer,Newsletter>>Grill-Kurse,1775,Frettchen &coKg.,Teststr.,12b,,,,,
+8,1,2020-02-12 14:30:00,2024-05-22 09:27:23,company,Standard,1,,Hotel zur Post GmbH,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Hotels,,,,Musterstr.,47,76133,Karlsruhe,49,721,123456-10
+9,2,2020-02-11 23:00:00,2025-02-06 09:31:14,person,Standard,1,mr,B�hler,Kai,,,kb@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer,,1619,Davinci,Fritz-Erler-Str.,23,76133,Karlsruhe,49,721,47031830
+12,2,2020-02-14 09:16:26,2025-02-19 19:24:21,person,Standard,1,ms,Scholzerina,Franziska,1777-11-30,,frnzscho@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer%%Allgemein>>Teilnehmer%%Allgemein>>redpeppers.celanio.com/,,1679,Arlo,Stra�e der Jugend,22,14922,Ludwigsfelde,49,123,88463
+17,,2020-06-10 12:46:20,2024-02-22 11:20:36,person,Standard,1,mr,M�ller,,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+18,,2020-07-08 10:08:17,2024-02-22 11:20:36,person,Invoice,1,mr,Nguyen,Viet Duc,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+20,1,2020-07-23 07:40:58,2024-08-28 09:24:53,person,Invoice,1,mr,Renner,Paul,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+21,,2020-07-23 11:13:23,2025-02-05 10:31:04,person,Standard,1,mr,Ashley,Eduardo,2001-07-15,,cel-test10@celanio.com,Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>PL/QA cel2-482,Newsletter>>Grill-Kurse,,,,,,,,,
+22,,2020-07-23 11:28:11,2024-02-22 11:20:36,person,Standard,1,ms,Guerrero,Kimberly,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+24,1,2020-07-30 22:00:00,2024-04-05 14:36:54,person,Invoice,1,mr,Muster,celanio,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+27,1,2020-08-03 10:30:30,2024-02-22 11:20:37,person,Invoice,1,mr,Nguyen,Viet,,,,Allgemein>>E-Mail>>Gruppe A,Newsletter>>Allgemein,,,,,,,,,
+31,1,2020-08-03 12:43:33,2024-10-02 06:46:00,person,Invoice,1,mr,Renner,Paul,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+34,1,2020-11-29 23:00:00,2024-02-22 11:20:37,person,Standard,1,mr,Fuchs,Thomas,,,cel-test06@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer,,,,Fritz-Erler-Str.,23,76133,Karlsruhe,49,721,47031830
+36,1,2021-01-26 09:19:55,2024-02-22 11:20:37,person,Standard,1,,Fuchs,Thomasius,,,cel-test09@celanio.com,Allgemein>>E-Mail>>Gruppe A,,,,Fritz-Erler-Str.,23,76133,Karlsruhe,,,
+37,1,2021-01-26 09:32:39,2024-09-20 09:27:24,person,Standard,1,mr,Fuchs,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>B�ro-1%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Dozenten>>Kopie 2,,,,Fritz-Erler-Str.,23,76133,Karlsruhe,49,2354234,456456546
+44,,2021-11-08 13:13:23,2024-12-06 13:46:28,person,Standard,1,ms,Filippi,Alina,,,fili-a,,,,,Niederwaldstr.,13,76437,Rastatt,49,7242,9689790
+45,,2021-11-08 13:15:40,2024-02-22 11:20:37,company,Standard,1,,Fiebig,,,,,Allgemein>>E-Mail>>Gruppe A,,,,Messering,1,76287,Rheinstetten,49,7242,9689790
+46,,2021-11-09 08:41:18,2024-11-01 14:40:44,person,Standard,1,ms,Faber,Randa,,,cel-test16@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf,,,,Kreuzstr,50,68753,Wagh�usel,49,7254,8546654
+47,,2021-11-09 08:44:38,2024-04-12 04:31:19,company,Standard,1,,Haus der Wirtschaft,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Orte,,,,Willi-Bleicher-Stra�e,19,70174,Stuttgart,49,711,84606
+48,,2021-11-09 15:50:25,2024-02-23 09:06:14,person,Standard,1,mr,Schilling,Vincent,2000-10-12,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Dozenten,,,,Damianstr,25,12345,Windenburg,49,7083,9689799
+49,,2021-11-09 15:55:04,2024-06-11 06:25:59,company,Standard,1,,Hotel Tre Stelle,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Orte%%Allgemein>>Hotels,,,,Rossistr,3,76437,Rastatt,49,7222,74468
+50,,2021-11-10 08:16:07,2024-02-22 11:20:38,person,Standard,1,ms,M�ller,Annika,,,,Allgemein>>E-Mail>>Gruppe A,,,,Nussstr,123,76555,Gaggenau,49,7225,54875
+52,,2021-11-10 08:59:05,2024-10-29 08:42:08,person,Standard,1,mr,Azumane,Elia,,,cel-test@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>Teilnehmer%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Betreuer,Newsletter>>CMS-Import%%Newsletter>>Grill-Kurse,,,Ahornweg,18,12345,Windenburg,49,231,98745
+53,,2021-11-10 09:05:35,2025-01-12 19:25:55,person,Standard,1,,Becker,Julian,,,cl-test01@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>Trainer%%Allgemein>>TYP>>Kunde,Newsletter>>Grill-Kurse,1594,Luftballon und S�hne,,,,,49,721,1234567
+54,,2021-11-10 09:48:29,2024-02-22 11:20:38,person,Standard,1,mr,M�ller,Karsten,,,,Allgemein>>E-Mail>>Gruppe A,,,,Winkelgasse,16b,76327,Pfinztal,,,
+55,,2021-11-10 10:17:29,2025-02-18 14:39:32,person,Standard,1,,Graf,Marc,,,graf-m@celanio.com,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer,,,,Regenweg,10,76133,Karlsruhe,49,7252,855857
+56,1,2021-11-10 10:19:06,2024-11-06 08:30:38,company,Standard,1,,Achat Hotel,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Orte%%Allgemein>>Hotels,,,,Kriegstr.,153,76133,Karlsruhe,49,721,6666665
+57,,2021-11-10 10:54:46,2024-03-25 10:08:51,person,Standard,1,ms,Ramos,Jane,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>Trainer%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Dozenten,,,,Rosenstr,10,12345,Windenburg,49,721,123456-10
+58,1,2021-11-10 10:58:26,2024-02-22 11:21:12,company,Standard,1,,Hotel Marbella,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Orte%%Allgemein>>Hotels,,,,Sonnenstr.,40,46099,Valencia,34,6,58432
+61,,2021-11-10 12:48:01,2024-09-17 05:21:23,company,Standard,1,,Best Western Stuttgart,,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Orte%%Allgemein>>Hotels,,,,Ludwigsburgerstra�e,455,70173,Stuttgart,49,711,456763
+62,,2021-11-11 09:46:04,2024-10-09 17:35:12,person,Standard,1,mr,Gundelfinger,Marius,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Trainer,,,,Brettener Str.,73,75438,Knittlingen,49,176,12345679
+63,,2021-11-11 09:50:18,2024-08-28 12:21:21,company,Standard,1,,Hotel Parkhotel Pforzheim,,,,,Allgemein>>E-Mail>>Gruppe A,,,,Schlossstra�e,111-125,75172,Pforzheim,49,7231,111125
+64,,2021-11-11 10:24:03,2024-02-22 11:20:39,person,Standard,1,ms,Henny,Jessica,,,,Allgemein>>E-Mail>>Gruppe A,,,,An der Salzach,07/01/25,75015,Bretten-Ruit,49,152,12312311
+65,,2021-11-11 10:46:09,2024-04-04 16:45:47,person,Standard,1,ms,Bohnenberger,Susanne,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>E-Mail>>Gruppe B%%Allgemein>>TYP>>Kunde,,,,Am Steinbruch,25c,75015,Bretten,49,725,887889
+66,,2021-11-11 13:59:03,2025-01-30 11:44:45,person,Standard,1,mr,Carello,Nathaniel,1996-01-17,,carello-n,Allgemein>>Trainer%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Dozenten,Newsletter>>Allgemein%%Newsletter>>Grill-Kurse,,,S�dring,3,12345,Windenburg,49,7254,554875
+67,,2021-11-11 14:05:51,2024-11-06 08:29:48,company,Standard,1,,Hotel Krone,,,,,Allgemein>>E-Mail>>Gruppe A,,,,Robert-Koch-Platz,7,10115,Berlin,49,721,84543
+68,,2021-11-15 07:58:02,2024-02-22 11:20:39,person,Standard,1,mr,Veilmont,Castiel,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>Trainer%%Allgemein>>redpeppers.celanio.com/%%Allgemein>>Dozenten,,,,Niederwaldstra�e,13,12345,Windenburg,49,7222,584698
+69,,2021-11-29 11:00:17,2024-02-22 11:20:39,person,Standard,1,mr,Koch,Michael,,,,Allgemein>>E-Mail>>Gruppe A,,,,Fritz-Erler-Str.,23,76133,Karlsruhe,49,721,38134120
+70,,2021-11-29 11:03:11,2025-01-31 16:11:50,person,Standard,1,ms,Beisel,Alexandra,,,,Allgemein>>E-Mail>>Gruppe A,,,,Fritz-Erler-Str.,23,76133,Karlsruhe,49,721,38134120
+71,,2021-12-12 23:00:00,2024-02-22 11:20:39,person,Invoice,1,,Plenk,Max,,,plenky,Allgemein>>E-Mail>>Gruppe A,Newsletter>>Allgemein,,,Fritz-Erler-Str.,23,76133,Karlsruhe,49,721,47031830
+72,1,2021-12-13 14:27:41,2024-02-22 11:21:11,company,Standard,1,,Metro GmbH,,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+73,2,2021-12-13 14:27:42,2024-03-18 10:04:30,person,Standard,1,mr,Mustermann,Maxx,,,,Allgemein>>E-Mail>>Gruppe A,,72,Metro GmbH,,,,,,,
+74,,2021-12-13 15:47:18,2024-02-22 11:20:39,person,Standard,1,ms,Weber,Gabriele,,,,Allgemein>>E-Mail>>Gruppe A,,,,Fritz-Erler-Str.,23,76133,Karlsruhe,,,
+75,,2022-01-12 15:56:41,2024-02-22 11:20:39,person,Invoice,1,mr,Pichtel,Noah,,,,Allgemein>>E-Mail>>Gruppe A,,,,,,,,,,
+76,,2022-01-12 15:57:22,2024-02-22 11:20:40,person,Invoice,1,ms,Erakles,Claire,,,,Allgemein>>E-Mail>>Gruppe A%%Allgemein>>Mitarbeiter>>Verkauf%%Allgemein>>Teilnehmer%%Allgemein>>redpeppers.celanio.com/,,,,Lindenallee,55,12345,Windenburg,49,123,86984
